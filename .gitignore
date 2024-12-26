@@ -1,0 +1,6 @@
+opinion-viz-server/.DS_Store
+.DS_Store
+opinion-viz-server/services/__pycache__
+opinion-viz-server/__pycache__
+opinion-viz-server/models/__pycache__
+opinion-viz-frontend/node_modules
